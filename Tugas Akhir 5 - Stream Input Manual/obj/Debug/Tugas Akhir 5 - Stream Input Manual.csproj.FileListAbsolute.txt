@@ -1,0 +1,5 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 5 - Stream Input Manual\Tugas Akhir 5 - Stream Input Manual\bin\Debug\Tugas Akhir 5 - Stream Input Manual.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 5 - Stream Input Manual\Tugas Akhir 5 - Stream Input Manual\bin\Debug\Tugas Akhir 5 - Stream Input Manual.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 5 - Stream Input Manual\Tugas Akhir 5 - Stream Input Manual\bin\Debug\Tugas Akhir 5 - Stream Input Manual.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 5 - Stream Input Manual\Tugas Akhir 5 - Stream Input Manual\obj\Debug\Tugas Akhir 5 - Stream Input Manual.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 5 - Stream Input Manual\Tugas Akhir 5 - Stream Input Manual\obj\Debug\Tugas Akhir 5 - Stream Input Manual.pdb
